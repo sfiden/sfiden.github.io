@@ -18,8 +18,8 @@ should read this one. Replace every bracketed placeholder, then delete this note
 > **\[stakeholder\]** can **\[decision they can now make\]**.
 
 **Role:** \[e.g. I led the data pipeline and validation.\]
-**Team:** \[solo, or name + link teammates.\]
-**Repo:** [github.com/your_github_username/your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
+**Team:** [Amaya Supancich-McCord](https://github.com/asupancichmccord)
+**Repo:** [https://github.com/Fiden-Supancich-McCord/data510-fire](https://github.com/Fiden-Supancich-McCord/data510-fire)
 
 ## The question
 
