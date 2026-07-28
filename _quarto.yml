@@ -11,7 +11,7 @@ execute:
 website:
   title: "Blitz Bearcat"
   description: "M.S. Data Science portfolio — Willamette University"
-  site-url: https://your_github_username.github.io
+  site-url: https://sfiden.github.io
   navbar:
     right:
       - href: index.qmd

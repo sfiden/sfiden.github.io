@@ -17,8 +17,8 @@ web summary below is what recruiters skim; the PDF is what they download.
 
 ## Education
 
-**M.S. Data Science** — Willamette University, Salem, OR *(2026)*
-**B.S. \[Your Major\]** — \[Your University\], \[City\] *(\[year\])*
+**M.S. Data Science** — Willamette University, Salem, OR *(August 2026)*
+**B.S. Data Science** — Willamette University, Salem, OR *(May 2026)*
 
 ## Skills
 
