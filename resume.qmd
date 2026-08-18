@@ -5,12 +5,6 @@ toc: true
 
 [📄 Download PDF](assets/resume.pdf){.btn .btn-primary role="button"}
 
-::: {.callout-note appearance="simple"}
-Drop your typeset resume at `assets/resume.pdf` and it appears below. Any PDF
-works tonight — export from Word, Google Docs, or a `vitae`/LaTeX template. The
-web summary below is what recruiters skim; the PDF is what they download.
-:::
-
 <iframe src="assets/resume.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd; margin-top: 1rem;">
 </iframe>
@@ -25,22 +19,34 @@ web summary below is what recruiters skim; the PDF is what they download.
 | Area | Tools |
 |------|-------|
 | **Languages** | R, Python, SQL |
-| **Data & ML** | \[tidyverse / pandas, scikit-learn, ...\] |
-| **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
-| **Communication** | Technical writing, data visualization |
+| **Data & ML** | tidyverse, pandas, scikit-learn, PyTorch |
+| **Workflow** | Git, Quarto, Airflow |
+| **Communication** | Technical writing, data visualization (ggplot, matplotlib) |
 
 ## Experience
 
-**\[Job Title\]** — \[Organization\], \[Location\] *(\[dates\])*
+**Community Needs Survey Consultant** — Rainbow Youth, Salem, OR *March 2026-August 2026*
 
-- Accomplishment framed as impact, not a task description.
-- Another accomplishment with a number in it if you have one.
+- Created a report for shareholders and investors to promote the funding of a new LGBTQ+ community center after cleaning, reshaping, and analyzing survey data.
+- Enabled future data work by proposing changes to the existing survey and writing comprehensive documentation of cleaning and analysis processes.
+
+**Coding Instructor** - CodeREV Kids, Santa Rosa, CA *June 2025-August 2025*
+
+- Increased ~60 students knowledge of and confidence with coding and circuitry basics using Pencilcode, Scratch coding, and Snap Circuits over two multi-week sessions with instruction and live demonstrations
+- Ensured all students (regardless of coding experience) were able to comfortably participate by fostering a collaborative and creative classroom space
 
 ## Projects
 
-**\[Capstone Title\]** — see the [Capstone page](capstone.qmd) for the full story.
+**Oregon on Fire** — see the [Capstone page](capstone.qmd) for the full story.
 
-- One line on the problem and your role.
+- Created a standardized spatial dataset for multi-feature analysis by integrating shapefiles and tabular data, including cleaning, feature engineering, and handling spatial data from diverse sources in multiple formats
+- Analyzed trends in wildfire severity in reference to keystone species presence, prescribed burns, and federally recognized Indigenous land, providing a landscape-level view of wildfire trends
 
-*Placeholders in brackets are fine while you build. Replace them with real,
-defensible entries as they materialize — sparse and true beats full and shaky.*
+**Prague Metro System Data Pipeline** - Adv. Data Engineering, Summer 2026
+
+- Incorporated diverse data sources (SQL, document, and graph databases) into a pipeline orchestrated by Airflow with models built by dbt, resulting in Grafana dashboards answering of business questions with visuals, text analysis and summary
+- Facilitated project handoff by writing comprehensive and clear documentation, including diagrams and a video walkthrough
+
+**NCAA Equity in Athletics** - Data Visualization, Spring 2026
+- Illustrated gender inequities in NCAA athletics through a series of interactive graphics, leveraging the ggplot and plotly libraries in R
+- Presented findings in verbal and written formats to increase awareness of gender disparities and dispel myths about women’s collegiate sports

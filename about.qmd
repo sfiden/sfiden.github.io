@@ -7,7 +7,7 @@ about:
   image-width: 12em
 ---
 
-## Hi, I'm Spencer 👋
+## Hi, I'm Spencer!
 
 I came to data science after finding an intro class at Willamette University. 
 Now I'm passionate about finding new ways to make sense of information and 
@@ -20,8 +20,8 @@ is where that comes together.
 ### Beyond the terminal
 
 - 🌲 I arrange music and enjoy music production & mixing.
-- 📚 \[Currently reading / learning / building.\]
-- 🎯 \[What you want to be doing in two years.\]
+- 📚 Currently reading *The Time Traveler's Wife* by Audrey Niffenegger.
+- 🎯 Looking for a permanent data role on the West coast.
 
 ### Get in touch
 

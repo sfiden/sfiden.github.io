@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Blitz Bearcat"
+  title: "Spencer Fiden"
   description: "M.S. Data Science portfolio — Willamette University"
   site-url: https://sfiden.github.io
   navbar:
@@ -31,7 +31,7 @@ website:
         href: https://linkedin.com/in/spencerfiden
         aria-label: LinkedIn
   page-footer:
-    left: "© 2026 Blitz Bearcat"
+    left: "© 2026 Spencer Fiden"
 
 format:
   html:
