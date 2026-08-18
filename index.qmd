@@ -1,6 +1,6 @@
 ---
 title: "Spencer Fiden"
-subtitle: "M.S. Data Science Candidate · Willamette University"
+subtitle: "M.S. Data Science • Willamette University"
 image: images/profile.jpg
 about:
   template: trestles
@@ -21,17 +21,16 @@ about:
       href: resume.qmd
 ---
 
-\[I build data pipelines and turn messy data into decisions people can act on.\]
-Right now I am finishing my M.S. in Data Science at **Willamette University**,
+I turn messy data into actionable intel and compelling visuals. 
+I recently finished my M.S. in Data Science at **Willamette University**,
 where my capstone [analyzes fire severity on Indigenous and non-Indigenous land](capstone.qmd) 
-to investigate the effect of prescribed burns.
+and investigates the effect of prescribed burns and previous wildfires.
 
-I care about \[topics you actually care about — e.g. housing, health equity,
-sports analytics\], reproducible workflows, and explaining a model to the person
-who has to trust it.
+I care about LGBTQ+ issues, housing, clear and reproducible workflows, and explaining results to the person
+who has to trust them.
 
-**Currently looking for** \[data analyst / data scientist / ML engineer\] roles
-starting \[month year\]. [Get in touch](about.qmd) or grab my
+**Currently looking for** data scientist roles
+starting October 2026. [Get in touch](about.qmd) or grab my
 [resume](resume.qmd).
 
 ---
@@ -46,14 +45,14 @@ Willamette University, 2026
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
-R · Python · SQL
-Quarto · Git · \[add yours\]
+R • Python • SQL
+Quarto • Git
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
-Salem, OR
-Open to \[remote / relocation\]
+Salem, OR •
+Open to relocation in CA, OR, WA
 :::
 
 :::
