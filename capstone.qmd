@@ -67,11 +67,31 @@ SHAP values to determine the impact of each feature on predictions.
 
 ![Fire size class distribution for fires with and without previous prescribed burns by Indigenous land designation in 2025.](projects/capstone/rx_indigenous_size_2025.png){fig-alt="A bar plot faceted by prescribed burn history and Indigenous land status. Cells with prescribed burns had higher proportions of small fires (Class A and B). Indigenous cells had slightly more large fires (Class E-G), but otherwise have similar distributions to non-Indigenous cells." width=85%}
 
-We found significant but small-scale differences in fire size between cells that previously experienced prescribed burns and those that did not (*p* = 0.001, Cohen's *d* = 0.19). Similarly, we found that cells that had previously experienced wildfires had a significant difference in later wildfire size than cells that hadn't had previous fires (*p* < 2.2e-16). Although the scale of difference is still small, it was larger than the difference found in the prescribed burn test (Cohen’s *d* = 0.33). There were not significant differences in fire size or duration in cells containing federally recognized Indigenous land compared to those that do not (*p* = 0.49), although the distribution of those metrics varied across categories.
+We found significant but small-scale differences in fire size between cells 
+that previously experienced prescribed burns and those that did not 
+(*p* = 0.001, Cohen's *d* = 0.19). Similarly, we found that cells that had 
+previously experienced wildfires had a significant difference in later wildfire 
+size than cells that hadn't had previous fires (*p* < 2.2e-16). Although the 
+scale of difference is still small, it was larger than the difference found in 
+the prescribed burn test (Cohen’s *d* = 0.33). There were not significant 
+differences in fire size or duration in cells containing federally recognized 
+Indigenous land compared to those that do not (*p* = 0.49), although the 
+distribution of those metrics varied across categories.
 
-Predictive models performed poorly--the best model had an accuracy of 0.473 (with a baseline of 0.398, the size of the largest category). Presence of Ponderosa Pine (or the sum of plant occurrences when combined), previous wildfire rolling sum, and previous wildfire acreage rolling sum served as the most influential factors in the model's predictions. The models' inability to consistently categorize wildfire size with these features shows that there are more factors influencing wildfire size than we were able to account for.
+Predictive models performed poorly--the best model had an accuracy of 0.473 
+(with a baseline of 0.398, the size of the largest category). Presence of 
+Ponderosa Pine (or the sum of plant occurrences when combined), previous 
+wildfire rolling sum, and previous wildfire acreage rolling sum served as 
+the most influential factors in the model's predictions. The models' inability 
+to consistently categorize wildfire size with these features shows that there are 
+more factors influencing wildfire size than we were able to account for.
 
-While we explored occurrence records for seven plant species, our data is unable to account for Oregon's full biodiversity, limiting our ability to  comprehensively examine forest ecology. Similarly, we used fire size and duration as proxies for fire severity as those features exhibited the smallest amount of missingness across our data sources, but they should not be interpreted as a complete measure of fire severity. 
+While we explored occurrence records for seven plant species, our data is 
+unable to account for Oregon's full biodiversity, limiting our ability to 
+comprehensively examine forest ecology. Similarly, we used fire size and duration 
+as proxies for fire severity as those features exhibited the smallest amount 
+of missingness across our data sources, but they should not be interpreted 
+as a complete measure of fire severity. 
 
 ## The full write-up
 
