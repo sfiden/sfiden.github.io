@@ -26,7 +26,7 @@ I recently finished my M.S. in Data Science at **Willamette University**,
 where my capstone [analyzes fire severity on Indigenous and non-Indigenous land](capstone.qmd) 
 and investigates the effect of prescribed burns and previous wildfires.
 
-I care about LGBTQ+ issues, housing, clear and reproducible workflows, and explaining results to the person
+I care about queer activism, clear and reproducible workflows, and explaining results to the person
 who has to trust them.
 
 **Currently looking for** data scientist roles
